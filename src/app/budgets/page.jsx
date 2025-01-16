@@ -71,7 +71,6 @@ export default function BudgetsPage() {
               )
           )}
         </div>
-
         {/* Budget Overview */}
         <div className="flex justify-between items-center">
           <h2 className="text-xl font-semibold text-gray-900">
@@ -229,7 +228,6 @@ export default function BudgetsPage() {
                       className="w-full border rounded-lg px-4 py-2"
                     />
                   </div>
-
                   <div className="flex justify-end space-x-2 pt-4">
                     <button
                       type="button"
